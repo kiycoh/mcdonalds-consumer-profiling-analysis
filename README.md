@@ -1,4 +1,4 @@
-# McDonald's Market Segmentation Analysis
+# McDonalds consumer profiling analysis
 
 This project performs an in-depth analysis of a customer survey dataset for McDonald's. The primary goal is to understand customer perceptions, identify distinct market segments through clustering, and create profiles for each segment to inform targeted marketing strategies.
 
